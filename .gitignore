@@ -1,0 +1,27 @@
+﻿# Build outputs
+.build/
+build/
+out/
+cmake-build-*/
+
+# Compiled binaries and objects
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.lib
+*.pdb
+*.ilk
+
+# Temporary and diagnostic files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+
+# Editor and OS metadata
+.vscode/
+.DS_Store
+Thumbs.db
